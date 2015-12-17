@@ -7,7 +7,7 @@ echo "------------ INSTALL NEO4J START -----------"
 
 export GREMLINSERVER_VERSION="3.0.2"
 export NEO4J_VERSION="2.3.1"
-export ORIENT_VERSION="2.17"
+export ORIENT_VERSION="2.1.8"
 
 export INSTALL_DIR="/home/vagrant"
 export VAGRANT_DIR="/vagrant"

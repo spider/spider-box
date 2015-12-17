@@ -87,9 +87,14 @@ locale:
 firewall:
     install: '1'
     rules:
-        fr_fe7h0mmwntck:
+        fr_8gtt2ovs1k6y:
             port:
                 - '2480'
+            priority: '100'
+            proto: tcp
+            action: accept
+        fr_ajhk0adrfiax:
+            port:
                 - '7474'
             priority: '100'
             proto: tcp
