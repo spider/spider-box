@@ -218,7 +218,6 @@ php:
             - intl
             - mcrypt
             - curl
-            - xdebug
         pear: {  }
         pecl: {  }
     ini:
