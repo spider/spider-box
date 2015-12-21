@@ -12,12 +12,12 @@ spider-box installs the following software automatically on the guest VM.
 - Gremlin Server 3.0.2
 - PHP5.6 (PHP-FPM and CLI)
 - Ubuntu 14.04 64bit
+- Oracle Java 1.8
 - Xdebug
 - Nginx
 - Composer (globally)
 - PHPUnit (globally)
 - Git
-- The Spider repo
 
 and the standard packages for Ubuntu.
 
