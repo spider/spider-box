@@ -8,7 +8,7 @@ A vagrant box (created by [Puphpet.com](https://puphpet.com/)) to get up a runni
 spider-box installs the following software automatically on the guest VM.
 
 - Neo4j 2.3.1
-- OrientDB 2.1.9
+- OrientDB 2.1.10
 - Gremlin Server 3.0.2
 - PHP5.6 (PHP-FPM and CLI)
 - Ubuntu 14.04 64bit
