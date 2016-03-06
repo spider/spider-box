@@ -3,8 +3,8 @@ echo "------------ START SYSTEM BOOTSTRAP ------------"
 
 ### set up necessary variables
 
-export GREMLINSERVER_VERSION="3.1.0"
-export NEO4J_VERSION="2.3.1"
+export GREMLINSERVER_VERSION="3.1.1"
+export NEO4J_VERSION="2.3.2"
 export ORIENT_VERSION="2.1.12"
 
 export INSTALL_DIR="/home/vagrant"
