@@ -4,7 +4,7 @@ echo "------------ RUNNING STARTUP COMMANDS -------------"
 ### Set variables
 export GREMLINSERVER_VERSION="3.1.1"
 export NEO4J_VERSION="2.3.2"
-export ORIENT_VERSION="2.1.12"
+export ORIENT_VERSION="2.1.16"
 
 export INSTALL_DIR="/home/vagrant"
 export VAGRANT_DIR="/vagrant"
